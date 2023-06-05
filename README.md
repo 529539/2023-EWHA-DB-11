@@ -6,7 +6,7 @@
 
 - **전체 동작 GIF**
     
-    ![2023DB02_11](https://github.com/529539/2023-EWHA-DB-11/assets/102040717/25c72bea-6f4b-44cc-a19b-9688328f1a56)
+    ![2023DB02_11](https://github.com/529539/2023-EWHA-DB-11/assets/102040717/8f9b6aa2-fb66-4875-92e1-caf95665d032)
     
     - 데모 시연 영상
         
@@ -15,19 +15,15 @@
 
 - **환자 이름으로 조회 - 검색 전 전체 목록**
     
-    ![localhost_project_php_search php](https://github.com/529539/2023-EWHA-DB-11/assets/102040717/dc64f3c9-d5a4-4d77-a0e7-340033892752)
-
-    
+    ![localhost_project_php_search php](https://github.com/529539/2023-EWHA-DB-11/assets/102040717/8f9bf816-707b-4f2f-bf91-8a0c3ca11dd0)
 
 - **환자 이름으로 조회 - 검색 후 결과**
     
-    ![localhost_project_php_result php_name=%EA%B9%80%EC%9D%B4%ED%99%94 (1)](https://github.com/529539/2023-EWHA-DB-11/assets/102040717/b95c1d83-0ae2-4363-b57c-be6830ea179d)
-
+    ![localhost_project_php_result php_name=%EA%B9%80%EC%9D%B4%ED%99%94 (1)](https://github.com/529539/2023-EWHA-DB-11/assets/102040717/ad09a790-b8c7-4507-bd11-e04ffa30a627)
 
 - **분석 보고서 - 연령대별 방문 진료과 통계**
 
-    <img width="1218" alt="스크린샷 2023-06-05 오후 3 58 27" src="https://github.com/529539/2023-EWHA-DB-11/assets/102040717/c91032bd-58cd-4d70-b3cb-a1de70b526c9">
-    
+    <img width="1218" alt="스크린샷 2023-06-05 오후 3 58 27" src="https://github.com/529539/2023-EWHA-DB-11/assets/102040717/9a747cc5-51cf-4d27-83bb-dd08e5f05513">
 
 ## 프로그램
 
