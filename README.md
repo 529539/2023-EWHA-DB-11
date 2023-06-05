@@ -1,5 +1,7 @@
 # 2023-EWHA-DB-11
 
+### 📑 [보고서 노션 페이지](https://529539.notion.site/40cb7f851fbe4acebde4421f6dce568c)
+
 ## 웹 화면 캡쳐
 
 - **전체 동작 GIF**
