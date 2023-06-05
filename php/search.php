@@ -63,8 +63,8 @@
             <td>이메일</td>
             <td>주소</td>
             <td>주민등록번호</td>
-            <td>담당 의사 (ID)</td>
-            <td>담당 간호사 (ID)</td>
+            <td>담당 의사</td>
+            <td>담당 간호사</td>
           </thead>
           <?php
             while ($row = mysqli_fetch_array($result)) {
